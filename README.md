@@ -7,6 +7,9 @@
   <a href="https://rohit-kumar23.github.io/webpage/">
     <img src="https://img.shields.io/badge/Portfolio-Website-0D1116?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
