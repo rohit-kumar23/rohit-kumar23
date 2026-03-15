@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/All_Links-Linktree-43B581?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
   <a href="https://rohit-kumar23.github.io/webpage/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0D1116?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Website-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
